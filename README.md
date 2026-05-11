@@ -1,4 +1,4 @@
-- Operations & Visual Communication Professional | Web, Digital & Project Coordination
+Operations & Visual Communication Professional | Web, Digital & Project Coordination
 - 🌐 Portfolio [jillg387.github.io](https://jillg387.github.io/)
 - 📫 LinkedIn: [LinkedIn.com/in/JillSGilmore](https://www.linkedin.com/in/jillsgilmore/)
 
